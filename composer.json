@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Api\\":"Api/"
+        }
+    },
+    "require": {
+        "twig/twig": "^2.13"
+    }
+}
